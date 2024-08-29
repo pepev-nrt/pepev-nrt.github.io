@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on pepev-nrt website</title>
-    <link>https://example.org/</link>
+    <link>https://pepev-nrt.github.io/</link>
     <description>Recent content in Home on pepev-nrt website</description>
     <generator>Hugo -- 0.121.2</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pepev-nrt.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El héroe de de las eras</title>
-      <link>https://example.org/reviews/el-heroe-de-las-eras/</link>
+      <link>https://pepev-nrt.github.io/reviews/el-heroe-de-las-eras/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/reviews/el-heroe-de-las-eras/</guid>
+      <guid>https://pepev-nrt.github.io/reviews/el-heroe-de-las-eras/</guid>
       <description> Título: El héroe de de las eras Autor: Brandom Sanderson Puntuación: ★★★★★ (5/5) Está increible, no quiero decir nada más por miedo a dar spoilers pero de verdad, es un buen libro.
 Hecha un ojo a la review de los otros libros anteriores:
 El imperio final El pozo de la ascensión </description>
     </item>
     <item>
       <title>El imperio final</title>
-      <link>https://example.org/reviews/el-imperio-final/</link>
+      <link>https://pepev-nrt.github.io/reviews/el-imperio-final/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/reviews/el-imperio-final/</guid>
+      <guid>https://pepev-nrt.github.io/reviews/el-imperio-final/</guid>
       <description>Título: El imperio final Autor: Brandom Sanderson Puntuación: ★★★★☆ (4/5) Está tremendo el libro, lo que más me ha gustado es que el el protagonista es un señor de 35 años que va dando saltos por encima de los tejados asustando a viejecitas por la noche. Personaje claramente inspitado en el ratoncito Pérez: si te hace una visita se va pero te deja una moneda.
 Increible la parte donde parece que al hermano le habian dado una paliza pero al final del libro aparece tan tranquilo y se los carga a todos.</description>
     </item>
     <item>
       <title>El pozo de la ascensión</title>
-      <link>https://example.org/reviews/el-pozo-de-la-ascension/</link>
+      <link>https://pepev-nrt.github.io/reviews/el-pozo-de-la-ascension/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/reviews/el-pozo-de-la-ascension/</guid>
+      <guid>https://pepev-nrt.github.io/reviews/el-pozo-de-la-ascension/</guid>
       <description>Título: El pozo de la ascensión Autor: Brandom Sanderson Puntuación: ★★★☆☆ (3/5) El otro estaba mejor.
 Hecha un ojo a la review del libro anterior: El imperio final</description>
     </item>
     <item>
       <title>Bill</title>
-      <link>https://example.org/relatos/bill/</link>
+      <link>https://pepev-nrt.github.io/relatos/bill/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/relatos/bill/</guid>
+      <guid>https://pepev-nrt.github.io/relatos/bill/</guid>
       <description>Al fin sonó. Sonó aquel sonido sinónimo de recompensa que hace una buena lata cerveza al ser abierta tras un largo día. Dio un sorbo. Bien fría, como a Bill le gustaba. Por fin pudo sentarse en el sillón de su casa, si es que a ese piso triste y solitario se le podía llamar casa. Se encontraba cansado, harto de tener que trapichear y buscar chatarra en los contenedores de basura para poder buscarse la vida, apenas conseguía dinero, al menos, no lo suficiente.</description>
     </item>
     <item>
       <title>Borsch</title>
-      <link>https://example.org/relatos/borsch/</link>
+      <link>https://pepev-nrt.github.io/relatos/borsch/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/relatos/borsch/</guid>
+      <guid>https://pepev-nrt.github.io/relatos/borsch/</guid>
       <description>Sintió un tirón, muy sutil pero suficiente para despertarle. Se había quedado dormido en la barca mientras pescaba. El sol ya se comenzaba a ocultar, por lo que calculaba que había estado ahí un par de horas.
 Otro tirón. El hilo de su caña de pescar estaba tenso y se preparó para tirar de ella, no quería perder la oportunidad de cenar pescado aquella noche, ya estaba cansado de comer lo que recolectaba por la zona.</description>
     </item>
     <item>
       <title>El marido</title>
-      <link>https://example.org/relatos/el-marido/</link>
+      <link>https://pepev-nrt.github.io/relatos/el-marido/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/relatos/el-marido/</guid>
+      <guid>https://pepev-nrt.github.io/relatos/el-marido/</guid>
       <description>Se encontraba preocupada, era tarde y su marido no había regresado aún del trabajo. Lo más probable era que se hubiese ido con sus compañeros a tomarse una cerveza al bar de turno, últimamente había cogido por costumbre hacer esto los viernes por la noche, pero esta vez no la avisó, por lo que decidió tratar de llamarle al móvil.
 Tras escuchar los primeros pitidos y no recibir respuesta decidió dejarlo sonar, pero nada, no contestaba.</description>
     </item>
     <item>
       <title>Sobre Mí</title>
-      <link>https://example.org/about/</link>
+      <link>https://pepev-nrt.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://pepev-nrt.github.io/about/</guid>
       <description>¿Qué quien soy? Nadie que te importe</description>
     </item>
   </channel>
