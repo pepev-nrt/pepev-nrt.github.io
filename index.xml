@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on pepev-nrt website</title>
+    <title>Inicio on Blog de Pepe</title>
     <link>https://pepev-nrt.github.io/</link>
-    <description>Recent content in Home on pepev-nrt website</description>
+    <description>Recent content in Inicio on Blog de Pepe</description>
     <generator>Hugo -- 0.121.2</generator>
     <language>es</language>
     <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -57,7 +57,7 @@ Tras escuchar los primeros pitidos y no recibir respuesta decidió dejarlo sonar
       <link>https://pepev-nrt.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pepev-nrt.github.io/about/</guid>
-      <description>¿Qué quien soy? Nadie que te importe</description>
+      <description> </description>
     </item>
   </channel>
 </rss>
