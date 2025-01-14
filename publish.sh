@@ -5,6 +5,7 @@ read commit
 
 git pull
 
+rm -r ./content/*
 cp -r /home/peps/Documents/Obsidian/2-Posts/content/* ./content
 
 hugo
