@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Artículos on sudo dnf</title>
-    <link>https://blog.sudodnf.com/articulos/</link>
-    <description>Recent content in Artículos on sudo dnf</description>
+    <title>Articulo on sudo dnf</title>
+    <link>https://blog.sudodnf.com/tags/articulo/</link>
+    <description>Recent content in Articulo on sudo dnf</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>es</language>
     <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.sudodnf.com/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.sudodnf.com/tags/articulo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://blog.sudodnf.com/articulos/test/</link>
