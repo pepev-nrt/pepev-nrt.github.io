@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cotidiano on sudo dnf</title>
-    <link>http://localhost:1313/tags/cotidiano/</link>
+    <link>https://blog.sudodnf.com/tags/cotidiano/</link>
     <description>Recent content in Cotidiano on sudo dnf</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>es</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cotidiano/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.sudodnf.com/tags/cotidiano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A la salida de clase</title>
-      <link>http://localhost:1313/relatos/a-la-salida-de-clase/</link>
+      <link>https://blog.sudodnf.com/relatos/a-la-salida-de-clase/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/relatos/a-la-salida-de-clase/</guid>
+      <guid>https://blog.sudodnf.com/relatos/a-la-salida-de-clase/</guid>
       <description>Sonó la campana y era la hora de que los niños saliesen del colegio. Como todos los días, yo ya estaba preparado con las llaves en la mano para abrir la verja principal. Allí fuera siempre estaba abarrotado. Había muchos padres esperando con ansia la hora de recoger a sus hijos y volver a casa, algunos de ellos incluso con el uniforme de trabajo: recién salidos de trabajar o ya preparados para comenzar el turno de tarde.</description>
     </item>
   </channel>

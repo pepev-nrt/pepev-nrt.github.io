@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on sudo dnf</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.sudodnf.com/tags/</link>
     <description>Recent content in Tags on sudo dnf</description>
     <generator>Hugo -- 0.126.2</generator>
     <language>es</language>
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.sudodnf.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relato</title>
-      <link>http://localhost:1313/tags/relato/</link>
+      <link>https://blog.sudodnf.com/tags/relato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/relato/</guid>
+      <guid>https://blog.sudodnf.com/tags/relato/</guid>
       <description></description>
     </item>
     <item>
       <title>Cotidiano</title>
-      <link>http://localhost:1313/tags/cotidiano/</link>
+      <link>https://blog.sudodnf.com/tags/cotidiano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cotidiano/</guid>
+      <guid>https://blog.sudodnf.com/tags/cotidiano/</guid>
       <description></description>
     </item>
     <item>
       <title>Soledad</title>
-      <link>http://localhost:1313/tags/soledad/</link>
+      <link>https://blog.sudodnf.com/tags/soledad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/soledad/</guid>
+      <guid>https://blog.sudodnf.com/tags/soledad/</guid>
       <description></description>
     </item>
     <item>
       <title>Terror</title>
-      <link>http://localhost:1313/tags/terror/</link>
+      <link>https://blog.sudodnf.com/tags/terror/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/terror/</guid>
+      <guid>https://blog.sudodnf.com/tags/terror/</guid>
       <description></description>
     </item>
   </channel>
