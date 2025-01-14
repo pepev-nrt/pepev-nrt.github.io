@@ -12,4 +12,4 @@ cover:
 #custom_css: ["css/relatos.css"]
 ---
 
-SOy el yoni y me gusta chupar colillas
+SOy el yoni y me gusta chupar colitas
