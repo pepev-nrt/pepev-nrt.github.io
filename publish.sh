@@ -5,6 +5,8 @@ read commit
 
 git pull
 
+cp -r /home/peps/Documents/Obsidian/2-Posts/content/* ./content
+
 hugo
 
 cp CNAME public/CNAME
